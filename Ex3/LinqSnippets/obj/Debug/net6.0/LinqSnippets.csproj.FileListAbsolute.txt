@@ -1,0 +1,48 @@
+\\192.168.33.22\windows\00proyectos\DotnetAngularOBootCamp\repoCodigoFinal\Sesion 1-3\LinqSnippets\bin\Debug\net6.0\LinqSnippets.deps.json
+\\192.168.33.22\windows\00proyectos\DotnetAngularOBootCamp\repoCodigoFinal\Sesion 1-3\LinqSnippets\bin\Debug\net6.0\LinqSnippets.dll
+\\192.168.33.22\windows\00proyectos\DotnetAngularOBootCamp\repoCodigoFinal\Sesion 1-3\LinqSnippets\bin\Debug\net6.0\LinqSnippets.pdb
+\\192.168.33.22\windows\00proyectos\DotnetAngularOBootCamp\repoCodigoFinal\Sesion 1-3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.csproj.AssemblyReference.cache
+\\192.168.33.22\windows\00proyectos\DotnetAngularOBootCamp\repoCodigoFinal\Sesion 1-3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.33.22\windows\00proyectos\DotnetAngularOBootCamp\repoCodigoFinal\Sesion 1-3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.AssemblyInfoInputs.cache
+\\192.168.33.22\windows\00proyectos\DotnetAngularOBootCamp\repoCodigoFinal\Sesion 1-3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.AssemblyInfo.cs
+\\192.168.33.22\windows\00proyectos\DotnetAngularOBootCamp\repoCodigoFinal\Sesion 1-3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.csproj.CoreCompileInputs.cache
+\\192.168.33.22\windows\00proyectos\DotnetAngularOBootCamp\repoCodigoFinal\Sesion 1-3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.dll
+\\192.168.33.22\windows\00proyectos\DotnetAngularOBootCamp\repoCodigoFinal\Sesion 1-3\LinqSnippets\obj\Debug\net6.0\refint\LinqSnippets.dll
+\\192.168.33.22\windows\00proyectos\DotnetAngularOBootCamp\repoCodigoFinal\Sesion 1-3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.pdb
+\\192.168.33.22\windows\00proyectos\DotnetAngularOBootCamp\repoCodigoFinal\Sesion 1-3\LinqSnippets\obj\Debug\net6.0\ref\LinqSnippets.dll
+\\192.168.33.22\windows\NetAngOBC\Sesion 1-3\LinqSnippets\bin\Debug\net6.0\LinqSnippets.deps.json
+\\192.168.33.22\windows\NetAngOBC\Sesion 1-3\LinqSnippets\bin\Debug\net6.0\LinqSnippets.dll
+\\192.168.33.22\windows\NetAngOBC\Sesion 1-3\LinqSnippets\bin\Debug\net6.0\LinqSnippets.pdb
+\\192.168.33.22\windows\NetAngOBC\Sesion 1-3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.csproj.AssemblyReference.cache
+\\192.168.33.22\windows\NetAngOBC\Sesion 1-3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.33.22\windows\NetAngOBC\Sesion 1-3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.AssemblyInfoInputs.cache
+\\192.168.33.22\windows\NetAngOBC\Sesion 1-3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.AssemblyInfo.cs
+\\192.168.33.22\windows\NetAngOBC\Sesion 1-3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.csproj.CoreCompileInputs.cache
+\\192.168.33.22\windows\NetAngOBC\Sesion 1-3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.dll
+\\192.168.33.22\windows\NetAngOBC\Sesion 1-3\LinqSnippets\obj\Debug\net6.0\refint\LinqSnippets.dll
+\\192.168.33.22\windows\NetAngOBC\Sesion 1-3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.pdb
+\\192.168.33.22\windows\NetAngOBC\Sesion 1-3\LinqSnippets\obj\Debug\net6.0\ref\LinqSnippets.dll
+\\192.168.33.22\windows\NetAngOBC\1_3\LinqSnippets\bin\Debug\net6.0\LinqSnippets.deps.json
+\\192.168.33.22\windows\NetAngOBC\1_3\LinqSnippets\bin\Debug\net6.0\LinqSnippets.dll
+\\192.168.33.22\windows\NetAngOBC\1_3\LinqSnippets\bin\Debug\net6.0\LinqSnippets.pdb
+\\192.168.33.22\windows\NetAngOBC\1_3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.csproj.AssemblyReference.cache
+\\192.168.33.22\windows\NetAngOBC\1_3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.33.22\windows\NetAngOBC\1_3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.AssemblyInfoInputs.cache
+\\192.168.33.22\windows\NetAngOBC\1_3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.AssemblyInfo.cs
+\\192.168.33.22\windows\NetAngOBC\1_3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.csproj.CoreCompileInputs.cache
+\\192.168.33.22\windows\NetAngOBC\1_3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.dll
+\\192.168.33.22\windows\NetAngOBC\1_3\LinqSnippets\obj\Debug\net6.0\refint\LinqSnippets.dll
+\\192.168.33.22\windows\NetAngOBC\1_3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.pdb
+\\192.168.33.22\windows\NetAngOBC\1_3\LinqSnippets\obj\Debug\net6.0\ref\LinqSnippets.dll
+C:\cosas Imp\mi unidad\NetAngOBC\Ex3\LinqSnippets\bin\Debug\net6.0\LinqSnippets.deps.json
+C:\cosas Imp\mi unidad\NetAngOBC\Ex3\LinqSnippets\bin\Debug\net6.0\LinqSnippets.dll
+C:\cosas Imp\mi unidad\NetAngOBC\Ex3\LinqSnippets\bin\Debug\net6.0\LinqSnippets.pdb
+C:\cosas Imp\mi unidad\NetAngOBC\Ex3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.csproj.AssemblyReference.cache
+C:\cosas Imp\mi unidad\NetAngOBC\Ex3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.GeneratedMSBuildEditorConfig.editorconfig
+C:\cosas Imp\mi unidad\NetAngOBC\Ex3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.AssemblyInfoInputs.cache
+C:\cosas Imp\mi unidad\NetAngOBC\Ex3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.AssemblyInfo.cs
+C:\cosas Imp\mi unidad\NetAngOBC\Ex3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.csproj.CoreCompileInputs.cache
+C:\cosas Imp\mi unidad\NetAngOBC\Ex3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.dll
+C:\cosas Imp\mi unidad\NetAngOBC\Ex3\LinqSnippets\obj\Debug\net6.0\refint\LinqSnippets.dll
+C:\cosas Imp\mi unidad\NetAngOBC\Ex3\LinqSnippets\obj\Debug\net6.0\LinqSnippets.pdb
+C:\cosas Imp\mi unidad\NetAngOBC\Ex3\LinqSnippets\obj\Debug\net6.0\ref\LinqSnippets.dll
