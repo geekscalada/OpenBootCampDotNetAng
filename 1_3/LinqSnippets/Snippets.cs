@@ -213,6 +213,9 @@ namespace LinqSnippets
 
 
             // OUTER JOIN - LEFT
+            // Primero obtenemos los elementos que están en la intersección de ambos grupos
+            // Y después los restamos. 
+            // DefaultIfEmpty por si estuviera vacía
             var leftOuterJoin = from element in firstList
                                 join secondElement in secondList
                                 on element equals secondElement
@@ -227,7 +230,7 @@ namespace LinqSnippets
 
 
 
-            // OUTER JOIN - RIGHT
+            // OUTER JOIN - RIGHT            
             var rightOuterJoin = from secondElement in secondList
                                  join element in firstList
                                  on secondElement equals element

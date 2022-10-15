@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jose\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\onexb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\192.168.33.22\\windows\\NetAngOBC\\1_3\\LinqSnippets\\LinqSnippets.csproj",
+      "projectUniqueName": "C:\\cosas Imp\\mi unidad\\NetAngOBC\\1_3\\LinqSnippets\\LinqSnippets.csproj",
       "projectName": "LinqSnippets",
-      "projectPath": "\\\\192.168.33.22\\windows\\NetAngOBC\\1_3\\LinqSnippets\\LinqSnippets.csproj",
-      "packagesPath": "C:\\Users\\jose\\.nuget\\packages\\",
-      "outputPath": "\\\\192.168.33.22\\windows\\NetAngOBC\\1_3\\LinqSnippets\\obj\\",
+      "projectPath": "C:\\cosas Imp\\mi unidad\\NetAngOBC\\1_3\\LinqSnippets\\LinqSnippets.csproj",
+      "packagesPath": "C:\\Users\\onexb\\.nuget\\packages\\",
+      "outputPath": "C:\\cosas Imp\\mi unidad\\NetAngOBC\\1_3\\LinqSnippets\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\jose\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\onexb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

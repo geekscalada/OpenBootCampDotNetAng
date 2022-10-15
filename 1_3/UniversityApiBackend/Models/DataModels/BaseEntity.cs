@@ -15,6 +15,9 @@ namespace UniversityApiBackend.Models.DataModels
         // cuando sale del constructor debe de ser algo no nulo
         // Podríamos ahcerlo opcional (nullable)
         public string CreatedBy { get; set; } = string.Empty;
+        // Por otro lado el createdBy, UpdatedBy y DeletedBy
+        //deberían de ser de tipo User y los inicializaríamos así:
+        //= new User();
         public DateTime CreatedAt { get; set; } = DateTime.Now;
         public string UpdatedBy { get; set; } = string.Empty;
         public DateTime? UpdatedAt { get; set; }

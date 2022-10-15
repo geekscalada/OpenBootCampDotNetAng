@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8DKpCGnEA8deVvsZz2cA3flSe/6n9n0pwthTmpVrWcrGCaeBheBUNljr/PhUcUjN54T1BUi9VXJXtsKUnV3T5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jose\\Mi unidad\\NetAngOBC\\Ex3\\LinqSnippets\\LinqSnippets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jose\\.nuget\\packages\\agecalculator\\1.3.0\\agecalculator.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
