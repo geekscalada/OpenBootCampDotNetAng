@@ -17,3 +17,5 @@ Services.findCourseByLevelAndStudents(Level.Basic);
 Services.findCoursesWOStudents();
 
 Services.findCoursesByLevelAndCategory("frontend", Level.Medium);
+
+Services.getStudentsByCourse("Curso principiantes c#");
