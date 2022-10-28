@@ -23,6 +23,9 @@
           "UniversityApiBackend.dll": {}
         },
         "resources": {
+          "de-de/UniversityApiBackend.resources.dll": {
+            "locale": "de-de"
+          },
           "en-US/UniversityApiBackend.resources.dll": {
             "locale": "en-US"
           },

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sk8lRlcpR8wEGcGKeJthlYS6o9CXheKJjSV2RzKNFLqKvB5yFkBtS0OznWCbAScZ95bMHO2C3WLynrcSPOi6rw==",
+  "dgSpecHash": "UOvjTuLJh9HPInX/ndQYsIPUMtj5XMMeyH88dht0pn9A77dW5i+GL4Gp0SusTU+70rW5EgP3ZSIqCAJOmphsjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jose\\Mi unidad\\NetAngOBC\\ex4y7\\University\\UniversityApiBackend\\UniversityApiBackend.csproj",
+  "projectFilePath": "\\\\192.168.33.22\\windows\\NetAngOBC\\ex4y7\\University\\UniversityApiBackend\\UniversityApiBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jose\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jose\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

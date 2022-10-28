@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jose\\Mi unidad\\NetAngOBC\\ex4y7\\University\\LinqSnippets\\LinqSnippets.csproj",
+      "projectUniqueName": "\\\\192.168.33.22\\windows\\NetAngOBC\\ex4y7\\University\\LinqSnippets\\LinqSnippets.csproj",
       "projectName": "LinqSnippets",
-      "projectPath": "C:\\Users\\jose\\Mi unidad\\NetAngOBC\\ex4y7\\University\\LinqSnippets\\LinqSnippets.csproj",
+      "projectPath": "\\\\192.168.33.22\\windows\\NetAngOBC\\ex4y7\\University\\LinqSnippets\\LinqSnippets.csproj",
       "packagesPath": "C:\\Users\\jose\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jose\\Mi unidad\\NetAngOBC\\ex4y7\\University\\LinqSnippets\\obj\\",
+      "outputPath": "\\\\192.168.33.22\\windows\\NetAngOBC\\ex4y7\\University\\LinqSnippets\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

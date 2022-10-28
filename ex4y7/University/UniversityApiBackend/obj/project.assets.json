@@ -9779,11 +9779,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jose\\Mi unidad\\NetAngOBC\\ex4y7\\University\\UniversityApiBackend\\UniversityApiBackend.csproj",
+      "projectUniqueName": "\\\\192.168.33.22\\windows\\NetAngOBC\\ex4y7\\University\\UniversityApiBackend\\UniversityApiBackend.csproj",
       "projectName": "UniversityApiBackend",
-      "projectPath": "C:\\Users\\jose\\Mi unidad\\NetAngOBC\\ex4y7\\University\\UniversityApiBackend\\UniversityApiBackend.csproj",
+      "projectPath": "\\\\192.168.33.22\\windows\\NetAngOBC\\ex4y7\\University\\UniversityApiBackend\\UniversityApiBackend.csproj",
       "packagesPath": "C:\\Users\\jose\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jose\\Mi unidad\\NetAngOBC\\ex4y7\\University\\UniversityApiBackend\\obj\\",
+      "outputPath": "\\\\192.168.33.22\\windows\\NetAngOBC\\ex4y7\\University\\UniversityApiBackend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -58,7 +58,9 @@ namespace UniversityApiBackend.Controllers
         [HttpGet("getcoursebycatandlevel")]
         public async Task<ActionResult<IEnumerable<Course>>> GetCoursesByCatAndLevel(string categoryName, Level level)
         {
-            return _coursesService.GetCoursesByCatAndLevel(categoryName, level).ToList();
+            var listCourses = _coursesService.GetCoursesByCatAndLevel(categoryName, level);
+
+            return Ok(listCourses);
         }
 
 
