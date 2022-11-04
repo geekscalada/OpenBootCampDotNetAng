@@ -2,4 +2,7 @@
 *.txt
 Sesion*/*
 *.zip
-
+*/.angular
+*/node_nodules
+node_modules
+.angular

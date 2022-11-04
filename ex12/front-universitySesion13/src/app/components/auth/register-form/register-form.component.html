@@ -1,0 +1,88 @@
+<div>
+    <!-- Este loginForm es el que hemos declarado en el .TS -->
+    <form [formGroup]="registerForm" (submit)="registerUser()">
+      <mat-grid-list cols="1" rowHeight="50px">
+        <mat-grid-tile [colspan]="1" [rowspan]="1">
+            <div>
+              <h2>Register</h2>
+            </div>
+        </mat-grid-tile>
+        <mat-grid-tile [colspan]="1" [rowspan]="1">
+          <mat-form-field appearance="fill">
+            <input matInput placeholder="id" formControlName="id" type="text" />
+          </mat-form-field>
+        </mat-grid-tile>
+
+        <mat-grid-tile [colspan]="1" [rowspan]="1">
+          <mat-form-field appearance="fill">
+            <input matInput placeholder="createdBy" formControlName="createdBy" type="text" />
+          </mat-form-field>
+        </mat-grid-tile>
+
+        <mat-grid-tile [colspan]="1" [rowspan]="1">
+          <mat-form-field appearance="fill">
+            <input matInput placeholder="createdAt" formControlName="createdAt" type="text" />
+          </mat-form-field>
+        </mat-grid-tile>
+
+        <mat-grid-tile [colspan]="1" [rowspan]="1">
+          <mat-form-field appearance="fill">
+            <input matInput placeholder="updatedBy" formControlName="updatedBy" type="text" />
+          </mat-form-field>
+        </mat-grid-tile>
+
+        <mat-grid-tile [colspan]="1" [rowspan]="1">
+          <mat-form-field appearance="fill">
+            <input matInput placeholder="updatedAt" formControlName="updatedAt" type="text" />
+          </mat-form-field>
+        </mat-grid-tile>
+
+        <mat-grid-tile [colspan]="1" [rowspan]="1">
+            <mat-form-field appearance="fill">
+                <input matInput placeholder="deletedBy" formControlName="deletedBy" type="text" />
+            </mat-form-field>
+        </mat-grid-tile>
+
+        
+        <mat-grid-tile [colspan]="1" [rowspan]="1">
+          <mat-form-field appearance="fill">
+            <input matInput placeholder="deletedAt" formControlName="deletedAt" type="text" />
+          </mat-form-field>
+        </mat-grid-tile>
+        <mat-grid-tile [colspan]="1" [rowspan]="1">
+          <mat-form-field appearance="fill">
+            <input matInput placeholder="isDeleted" formControlName="isDeleted" type="text" />
+          </mat-form-field>
+        </mat-grid-tile>
+        <mat-grid-tile [colspan]="1" [rowspan]="1">
+          <mat-form-field appearance="fill">
+            <input matInput placeholder="name" formControlName="name" type="text" />
+          </mat-form-field>
+        </mat-grid-tile>
+        <mat-grid-tile [colspan]="1" [rowspan]="1">
+          <mat-form-field appearance="fill">
+            <input matInput placeholder="lastName" formControlName="lastName" type="text" />
+          </mat-form-field>
+        </mat-grid-tile>
+        <mat-grid-tile [colspan]="1" [rowspan]="1">
+          <mat-form-field appearance="fill">
+            <input matInput placeholder="email" formControlName="email" type="text" />
+          </mat-form-field>
+        </mat-grid-tile>
+
+        <mat-grid-tile [colspan]="1" [rowspan]="1">
+          <mat-form-field appearance="fill">
+            <input matInput placeholder="Password" formControlName="password" type="password" />
+          </mat-form-field>
+        </mat-grid-tile>
+        <mat-grid-tile [colspan]="1" [rowspan]="1">
+          <button type="submit" [disabled]="registerForm.invalid">
+            Register
+          </button>
+        </mat-grid-tile>
+      </mat-grid-list>
+    </form>
+  </div>
+
+
+      
